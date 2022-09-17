@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchEmailProgram", "FetchEmailProgram.csproj", "{99AFCDCA-081F-4A10-8772-92F4B4236F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AFCDCA-081F-4A10-8772-92F4B4236F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AFCDCA-081F-4A10-8772-92F4B4236F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AFCDCA-081F-4A10-8772-92F4B4236F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AFCDCA-081F-4A10-8772-92F4B4236F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF0188B-AF97-49A1-BC63-D1E89097EE40}
+	EndGlobalSection
+EndGlobal
